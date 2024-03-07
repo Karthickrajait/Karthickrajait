@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @Karthickraja
-- 👀 I’m interested in cloud computing and cybersecurity
-- 🌱 I’m currently learning cloud practioner and cloud solution architect
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 Aspiring cloud Engineer. completed aws cloud practioner exam .
+- now looking forward to complete aws solution architect.
+- 🌱 I’m Actively looking for internship oppurtunity in my specific domain
+- 📫 reach me through ....
+- Email: karthickofficial826@gmail.com
+- phno:+91 9791468566
+- linkedin:https://www.linkedin.com/in/karthick-raja-712504234?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 <!---
 Karthickrajait/Karthickrajait is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
