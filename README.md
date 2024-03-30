@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Karthickraja
-- 👀 Aspiring cloud Engineer. completed aws cloud practioner exam .
+- 👀 Aspiring cloud Engineer. "AWS Certified Cloud Engineer " .
 - now looking forward to complete aws solution architect.
 - 🌱 I’m Actively looking for internship oppurtunity in my specific domain
 - 📫 reach me through ....
