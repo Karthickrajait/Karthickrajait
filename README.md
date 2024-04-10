@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Karthickraja
 - 👀 Aspiring cloud Engineer. "AWS Certified Cloud Engineer " .
 - now looking forward to complete aws solution architect.
-- 🌱 I’m Actively looking for internship oppurtunity in my specific domain
+- 🌱 I’m Actively looking for internship oppurtunity in Cloud Computing
 - 📫 reach me through ....
 - Email: karthickofficial826@gmail.com
 - phno:+91 9791468566
